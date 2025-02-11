@@ -5,6 +5,8 @@ Este projeto é um **framework simples** para gerenciar entidades genéricas em 
 
 ---
 
+![Imagen](https://github.com/christianestevam/java-generics/blob/master/media/img.png)
+
 ## 📌 **1. Tecnologias Utilizadas**
 - **Java 21**
 - **Maven**
@@ -147,3 +149,7 @@ O projeto inclui diversas entidades do domínio de **restaurantes**, como:
 - `Customer`, `Order`, `MenuItem`, `Restaurant`, `Reservation`, `Payment`, `Supplier`, `Table`, `Review`, `Delivery`, `InventoryItem`.
 
 ---
+
+## 📌 9. Demonstração do Funcionamento
+
+[🎥 Assista à demonstração](https://github.com/christianestevam/java-generics/blob/master/media/2025-02-10%2023-26-10.mkv)
